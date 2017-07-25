@@ -1,0 +1,98 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: queue - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\wex\AppData\Local\Temp\RSPA0D6.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/queue.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\basefun.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\DataStruct.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM90EQ\EQ2008_DataStruct.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM9001\IMM9001.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM90011\IMM90011.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM9002\IMM9002.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM90022\IMM90022.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM9003\IMM9003.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM9004\IMM9004.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM9005\IMM9005.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM90061\IMM90061.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM9010\IMM9010.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM9012\IMM9012.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM9013\IMM9013.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMM90EQ\IMM90EQ.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMQDWZ\IMMQDWZ.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\main.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\voices\VOS9001\VOS9001.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\voices\VOS9002\VOS9002.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\queue\voices\VOS9004\VOS9004.cpp"
+]
+Creating command line "cl.exe @C:\Users\wex\AppData\Local\Temp\RSPA0D6.tmp" 
+Creating temporary file "C:\Users\wex\AppData\Local\Temp\RSPA0E7.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/queue.pdb" /debug /machine:I386 /out:"queue.exe" /pdbtype:sept 
+".\Debug\basefun.obj"
+".\Debug\DataStruct.obj"
+".\Debug\EQ2008_DataStruct.obj"
+".\Debug\IMM9001.obj"
+".\Debug\IMM90011.obj"
+".\Debug\IMM9002.obj"
+".\Debug\IMM90022.obj"
+".\Debug\IMM9003.obj"
+".\Debug\IMM9004.obj"
+".\Debug\IMM9005.obj"
+".\Debug\IMM90061.obj"
+".\Debug\IMM9010.obj"
+".\Debug\IMM9012.obj"
+".\Debug\IMM9013.obj"
+".\Debug\IMM90EQ.obj"
+".\Debug\IMMQDWZ.obj"
+".\Debug\IMMTW45.obj"
+".\Debug\main.obj"
+".\Debug\VOS9001.obj"
+".\Debug\VOS9002.obj"
+".\Debug\VOS9004.obj"
+]
+Creating command line "link.exe @C:\Users\wex\AppData\Local\Temp\RSPA0E7.tmp"
+<h3>Output Window</h3>
+Compiling...
+basefun.cpp
+d:\program files (x86)\microsoft visual studio\vc98\include\vector(39) : warning C4786: 'std::reverse_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const *,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const *,int>' : identifier was truncated to '255' characters in the debug information
+        d:\program files (x86)\microsoft visual studio\vc98\include\vector(39) : while compiling class-template member function '__thiscall std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >(const std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > &)'
+d:\program files (x86)\microsoft visual studio\vc98\include\vector(39) : warning C4786: 'std::reverse_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > *,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > *,int>' : identifier was truncated to '255' characters in the debug information
+        d:\program files (x86)\microsoft visual studio\vc98\include\vector(39) : while compiling class-template member function '__thiscall std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >(const std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > &)'
+DataStruct.cpp
+d:\program files (x86)\microsoft visual studio\vc98\include\vector(39) : warning C4786: 'std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >' : identifier was truncated to '255' characters in the debug information
+d:\program files (x86)\microsoft visual studio\vc98\include\vector(60) : warning C4786: 'std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::~vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >' : identifier was truncated to '255' characters in the debug information
+EQ2008_DataStruct.cpp
+IMM9001.cpp
+IMM90011.cpp
+IMM9002.cpp
+IMM90022.cpp
+IMM9003.cpp
+IMM9004.cpp
+IMM9005.cpp
+IMM90061.cpp
+IMM9010.cpp
+IMM9012.cpp
+IMM9013.cpp
+IMM90EQ.cpp
+IMMQDWZ.cpp
+IMMTW45.cpp
+main.cpp
+VOS9001.cpp
+VOS9002.cpp
+VOS9004.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+queue.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

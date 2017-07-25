@@ -1,0 +1,287 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\commtest.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\commtest.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 commtest"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "commtest 1.0 版",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "版权所有 (C) 2008",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_COMMTEST_DIALOG DIALOGEX 0, 0, 501, 327
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "commtest"
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "DescIP",IDC_STATIC,13,17,25,8
+    LTEXT           "Width",IDC_STATIC,13,42,21,8
+    LTEXT           "Height",IDC_STATIC,7,60,25,8
+    EDITTEXT        IDC_WIDTH,43,39,79,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_HEIGHT,43,58,78,14,ES_AUTOHSCROLL
+    LTEXT           "DescPort",IDC_STATIC,145,17,33,8
+    LTEXT           "LocalPort",IDC_STATIC,141,40,37,8
+    LTEXT           "SendData",IDC_STATIC3,144,59,33,8
+    EDITTEXT        IDC_DESCPORT,188,15,80,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_LOCALPORT,187,35,79,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SENDDATA,187,57,78,14,ES_AUTOHSCROLL
+    LTEXT           "图号",IDC_STATIC,306,18,17,8
+    LTEXT           "显示方式",IDC_STATIC,299,35,33,8
+    LTEXT           "显示速度",IDC_STATIC,300,55,33,8
+    LTEXT           "显示时间",IDC_STATIC,300,73,33,8
+    EDITTEXT        IDC_PICNO,339,14,94,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SHOWMODE,339,33,94,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SHOWSPEED,339,51,93,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SHOWTIME,339,71,93,14,ES_AUTOHSCROLL
+    LTEXT           "图片",IDC_STATIC,21,87,17,8
+    CONTROL         143,IDC_STATIC1,"Static",SS_BITMAP,55,101,32,32
+    LTEXT           "插播图片",IDC_STATIC,217,91,33,8
+    CONTROL         144,IDC_STATIC2,"Static",SS_BITMAP,270,99,171,157
+    PUSHBUTTON      "打开网络",IDC_OPENNET,21,89,65,19
+    PUSHBUTTON      "发送数据",IDC_DATASEND,17,125,68,23
+    PUSHBUTTON      "接收数据",IDC_RECEIVEDATA,17,162,66,20
+    PUSHBUTTON      "关闭网络",IDC_CLOSENET,14,127,66,22
+    PUSHBUTTON      "发送数据综合",IDC_COLLIGATESENDDATA,15,167,68,20
+    PUSHBUTTON      "开屏测试",IDC_OPENSCREEN,21,205,51,21
+    PUSHBUTTON      "关屏测试",IDC_CLOSESCREEN,111,206,59,20
+    PUSHBUTTON      "发送图片",IDC_SENDPIC,207,206,58,18
+    PUSHBUTTON      "发送计划",IDC_SENDPLAN,309,205,55,18
+    PUSHBUTTON      "插播",IDC_INTERCUT,399,205,53,18
+    LTEXT           "文本",IDC_STATIC,361,225,17,8
+    LTEXT           "left",IDC_STATIC,37,236,17,8
+    EDITTEXT        IDC_TEXTLEFT,68,233,40,14,ES_AUTOHSCROLL
+    LTEXT           "Top",IDC_STATIC,124,235,13,8
+    EDITTEXT        IDC_TEXTTOP,145,233,40,14,ES_AUTOHSCROLL
+    LTEXT           "Height",IDC_STATIC,279,236,25,8
+    EDITTEXT        IDC_TEXTHEIGHT,306,235,40,14,ES_AUTOHSCROLL
+    LTEXT           "Width",IDC_STATIC,197,236,21,8
+    EDITTEXT        IDC_TEXTWIDTH,228,234,40,14,ES_AUTOHSCROLL
+    LTEXT           "FontName",IDC_STATIC,22,261,33,8
+    EDITTEXT        IDC_FONTNAME,62,258,49,14,ES_AUTOHSCROLL
+    LTEXT           "FontSize",IDC_STATIC,129,261,33,8
+    EDITTEXT        IDC_FONTSIZE,174,259,52,14,ES_AUTOHSCROLL
+    LTEXT           "FontColor",IDC_STATIC,245,261,37,8
+    COMBOBOX        IDC_FONTCOLOR,293,260,57,52,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "初始化",IDC_INITIALIZE,21,285,59,22
+    PUSHBUTTON      "生成数据",IDC_GENEDATA,109,287,58,20
+    PUSHBUTTON      "发送生成图",IDC_SENDGENEPIC,201,288,62,19
+    PUSHBUTTON      "释放图片",IDC_RELEASEPIC,293,288,58,20
+    CONTROL         "",IDC_TEXT,"RICHEDIT",ES_MULTILINE | ES_WANTRETURN | 
+                    WS_BORDER | WS_VSCROLL | WS_TABSTOP,370,235,118,76
+    EDITTEXT        IDC_EDIT1,134,74,62,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "保存数据",IDC_Wtite,435,47,50,14
+    PUSHBUTTON      "读取数据",IDC_Read,435,88,50,14
+    CONTROL         "IPAddress1",IDC_DescIP,"SysIPAddress32",WS_TABSTOP,40,
+                    15,101,12
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "commtest Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "commtest\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2008\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "commtest.EXE\0"
+            VALUE "ProductName", "commtest 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_COMMTEST_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 494
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 320
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_COMMTEST_DIALOG DLGINIT
+BEGIN
+    IDC_FONTCOLOR, 0x403, 5, 0
+0xecba, 0xabc9, "\000" 
+    IDC_FONTCOLOR, 0x403, 5, 0
+0xccc2, 0xabc9, "\000" 
+    IDC_FONTCOLOR, 0x403, 5, 0
+0xc6bb, 0xabc9, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP2             BITMAP  DISCARDABLE     "res\\bitmap2.bmp"
+IDB_BITMAP3             BITMAP  DISCARDABLE     "res\\bitmap3.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 commtest(&A)..."
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\commtest.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

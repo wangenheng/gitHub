@@ -1,0 +1,79 @@
+[2017-05-24 16:24:33] <DEBUG> IMMQDWZ::IMMQDWZ(void)
+[2017-05-24 16:24:33] <ERROR> 加载库:[LEDSender2010.dll]失败！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|303]
+[2017-05-24 16:24:33] <ERROR> LoadLibrarys LEDSender2012.dll Error!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|21]
+[2017-05-24 16:24:33] <DEBUG> SHOWFORMAT=[请X到X窗口]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|34]
+[2017-05-24 16:24:33] <DEBUG> 串口 :COM = [1], 波特率    = [9600]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|95]
+[2017-05-24 16:24:33] <DEBUG> showColor = [18], showMode  = [0]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|96]
+[2017-05-24 16:24:33] <DEBUG> showTime  = [1], showSpeed = [6]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|97]
+[2017-05-24 16:24:46] <DEBUG> IMMQDWZ::IMMQDWZ(void)
+[2017-05-24 16:24:46] <ERROR> 加载库:[LEDSender2010.dll]失败！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|303]
+[2017-05-24 16:24:46] <ERROR> LoadLibrarys LEDSender2012.dll Error!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|21]
+[2017-05-24 16:24:46] <DEBUG> SHOWFORMAT=[请X到X窗口]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|34]
+[2017-05-24 16:24:46] <DEBUG> 串口 :COM = [1], 波特率    = [9600]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|95]
+[2017-05-24 16:24:46] <DEBUG> showColor = [18], showMode  = [0]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|96]
+[2017-05-24 16:24:46] <DEBUG> showTime  = [1], showSpeed = [6]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|97]
+[2017-05-24 16:26:58] <DEBUG> IMMQDWZ::IMMQDWZ(void)
+[2017-05-24 16:26:58] <ERROR> 加载库:[LEDSender2010.dll]失败！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|303]
+[2017-05-24 16:26:58] <ERROR> LoadLibrarys LEDSender2012.dll Error!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|21]
+[2017-05-24 16:26:58] <DEBUG> SHOWFORMAT=[请X到X窗口]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|34]
+[2017-05-24 16:26:58] <DEBUG> 串口 :COM = [1], 波特率    = [9600]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|95]
+[2017-05-24 16:26:58] <DEBUG> showColor = [18], showMode  = [0]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|96]
+[2017-05-24 16:26:58] <DEBUG> showTime  = [1], showSpeed = [6]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|97]
+[2017-05-24 16:27:37] <DEBUG> IMMQDWZ::IMMQDWZ(void)
+[2017-05-24 16:27:37] <ERROR> 加载库:[LEDSender2010.dll]失败！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|303]
+[2017-05-24 16:27:37] <ERROR> LoadLibrarys LEDSender2012.dll Error!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|21]
+[2017-05-24 16:27:37] <DEBUG> SHOWFORMAT=[请X到X窗口]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|34]
+[2017-05-24 16:27:37] <DEBUG> 串口 :COM = [1], 波特率    = [9600]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|95]
+[2017-05-24 16:27:37] <DEBUG> showColor = [18], showMode  = [0]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|96]
+[2017-05-24 16:27:37] <DEBUG> showTime  = [1], showSpeed = [6]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|97]
+[2017-05-24 16:30:14] <DEBUG> IMMQDWZ::IMMQDWZ(void)
+[2017-05-24 16:30:15] <DEBUG> 加载库:[LEDSender2010.dll]成功！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|306]
+[2017-05-24 16:30:15] <DEBUG> 打开函数:LED_Startup 成功！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|311]
+[2017-05-24 16:30:15] <DEBUG> 打开函数:MakeRoot 成功！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|320]
+[2017-05-24 16:30:15] <DEBUG> 打开函数:AddChapter 成功！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|329]
+[2017-05-24 16:30:15] <DEBUG> 打开函数:AddRegion 成功！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|338]
+[2017-05-24 16:30:15] <DEBUG> 打开函数:AddLeaf 成功！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|347]
+[2017-05-24 16:30:15] <DEBUG> 打开函数:AddText 成功！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|355]
+[2017-05-24 16:30:15] <DEBUG> 打开函数:LED_SendToScreen 成功！
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|363]
+[2017-05-24 16:30:15] <INFO> LoadLibrarys LEDSender2012.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|23]
+[2017-05-24 16:30:15] <DEBUG> SHOWFORMAT=[请X到X窗口]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|34]
+[2017-05-24 16:30:15] <DEBUG> 串口 :COM = [1], 波特率    = [9600]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|95]
+[2017-05-24 16:30:15] <DEBUG> showColor = [18], showMode  = [0]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|96]
+[2017-05-24 16:30:15] <DEBUG> showTime  = [1], showSpeed = [6]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immqdwz\immqdwz.cpp|97]

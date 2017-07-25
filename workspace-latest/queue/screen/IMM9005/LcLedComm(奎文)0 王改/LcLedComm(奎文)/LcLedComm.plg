@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: LcLedComm - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/LcLedComm.res" /d "NDEBUG" /d "_AFXDLL" "E:\工作_兼容利旧\2016年末潍坊国税兼容利旧\workspace-2016-12-7\workspace-2016-12-7\queue\screen\IMM9005\LcLedComm(奎文)0 王改\LcLedComm(奎文)\LcLedComm.rc"" 
+Creating temporary file "C:\Users\wex\AppData\Local\Temp\RSPA307.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_WINDLL" /D "_AFXDLL" /D "_MBCS" /D "_USRDLL" /Fp"Release/LcLedComm.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\工作_兼容利旧\2016年末潍坊国税兼容利旧\workspace-2016-12-7\workspace-2016-12-7\queue\screen\IMM9005\LcLedComm(奎文)0 王改\LcLedComm(奎文)\Drvapi.cpp"
+"E:\工作_兼容利旧\2016年末潍坊国税兼容利旧\workspace-2016-12-7\workspace-2016-12-7\queue\screen\IMM9005\LcLedComm(奎文)0 王改\LcLedComm(奎文)\LcLedComm.cpp"
+"E:\工作_兼容利旧\2016年末潍坊国税兼容利旧\workspace-2016-12-7\workspace-2016-12-7\queue\screen\IMM9005\LcLedComm(奎文)0 王改\LcLedComm(奎文)\PortFun.cpp"
+]
+Creating command line "cl.exe @C:\Users\wex\AppData\Local\Temp\RSPA307.tmp" 
+Creating temporary file "C:\Users\wex\AppData\Local\Temp\RSPA317.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_WINDLL" /D "_AFXDLL" /D "_MBCS" /D "_USRDLL" /Fp"Release/LcLedComm.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\工作_兼容利旧\2016年末潍坊国税兼容利旧\workspace-2016-12-7\workspace-2016-12-7\queue\screen\IMM9005\LcLedComm(奎文)0 王改\LcLedComm(奎文)\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\wex\AppData\Local\Temp\RSPA317.tmp" 
+Creating temporary file "C:\Users\wex\AppData\Local\Temp\RSPA318.tmp" with contents
+[
+/nologo /subsystem:windows /dll /incremental:no /pdb:"Release/LcLedComm.pdb" /machine:I386 /def:".\LcLedComm.def" /out:"Release/LcLedComm.dll" /implib:"Release/LcLedComm.lib" 
+".\Release\Drvapi.obj"
+".\Release\LcLedComm.obj"
+".\Release\PortFun.obj"
+".\Release\StdAfx.obj"
+".\Release\LcLedComm.res"
+]
+Creating command line "link.exe @C:\Users\wex\AppData\Local\Temp\RSPA318.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+Drvapi.cpp
+LcLedComm.cpp
+PortFun.cpp
+Generating Code...
+Linking...
+   Creating library Release/LcLedComm.lib and object Release/LcLedComm.exp
+
+
+
+<h3>Results</h3>
+LcLedComm.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

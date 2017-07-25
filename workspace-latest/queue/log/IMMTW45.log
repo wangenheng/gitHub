@@ -1,0 +1,382 @@
+[2017-06-19 19:29:19] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 19:29:19] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 19:29:19] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 19:29:19] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 19:29:19] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 19:29:20] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 19:29:21] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 19:30:54] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 19:30:54] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 19:30:54] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 19:30:54] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 19:30:54] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 19:30:55] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:14:55] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:14:55] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 23:14:55] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 23:14:55] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 23:14:55] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 23:14:57] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:14:58] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:14:59] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:15:00] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:17:02] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:17:02] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 23:17:02] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 23:17:02] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 23:17:02] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 23:17:04] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:17:05] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:17:06] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:17:07] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:17:08] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:18:20] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:18:20] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 23:18:20] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 23:18:20] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 23:18:20] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 23:18:21] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:18:22] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:18:23] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:18:25] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:18:26] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:24:49] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:24:49] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 23:24:49] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 23:24:49] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 23:24:49] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 23:24:50] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:24:51] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:24:52] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:24:54] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:24:55] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:26:51] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:26:51] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 23:26:51] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 23:26:51] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 23:26:51] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 23:26:52] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:26:53] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:26:54] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:27:02] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:27:02] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 23:27:02] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 23:27:02] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 23:27:02] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 23:27:03] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:27:04] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:27:06] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:27:07] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:27:08] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|121]
+[2017-06-19 23:27:09] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|185]
+[2017-06-19 23:34:48] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:34:48] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:34:48] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:34:48] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:34:48] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:34:49] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:34:50] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:35:22] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:35:22] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:35:22] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:35:22] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:35:22] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:35:23] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:35:24] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:35:26] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:35:27] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:35:28] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:36:05] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:36:05] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:36:05] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:36:05] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:36:05] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:36:06] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:36:07] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:36:23] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:36:23] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:36:23] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:36:23] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:36:23] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:36:25] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:36:26] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:36:27] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:36:28] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:36:29] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:36:30] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:36:31] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:36:33] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:36:34] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:36:35] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:37:00] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:37:00] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:37:00] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:37:00] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:37:00] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:37:09] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:38:11] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:42:11] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:42:11] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:42:11] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:42:11] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:42:11] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:42:12] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:42:13] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:42:14] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:42:16] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:42:17] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:42:18] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:42:19] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:42:20] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:42:21] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:42:22] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:43:02] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:43:02] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:43:02] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:43:02] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:43:02] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:43:03] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:43:05] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:43:06] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:43:07] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:43:22] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:43:22] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:43:22] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:43:22] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:43:22] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:43:23] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:43:24] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:43:25] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:43:26] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:43:27] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:43:29] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:43:30] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:43:31] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:43:32] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:46:36] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:46:36] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:46:36] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:46:45] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:48:42] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:48:42] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-19 23:48:42] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-19 23:48:42] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-19 23:48:42] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-19 23:48:43] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:48:44] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:48:45] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:48:46] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-19 23:48:47] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:48:49] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:48:50] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:48:51] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:48:52] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-19 23:49:37] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-19 23:49:37] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|30]
+[2017-06-19 23:49:37] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|41]
+[2017-06-19 23:49:37] <DEBUG> InitMapWinAdr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|45]
+[2017-06-19 23:49:37] <DEBUG> InitMapIpAddr
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|47]
+[2017-06-19 23:49:37] <DEBUG> InitSendPic
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|50]
+[2017-06-19 23:49:37] <DEBUG> 串口 :COM = [1], 波特率    = [9600]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|359]
+[2017-06-19 23:49:37] <DEBUG> showColor = [18], showMode  = [0]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|360]
+[2017-06-19 23:49:37] <DEBUG> showTime  = [1], showSpeed = [6]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|361]
+[2017-06-19 23:49:37] <DEBUG> IMMTW45::InitStripScreen( )
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|497]
+[2017-06-19 23:49:37] <DEBUG> IMMTW45::InitIntegScreen( )
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|509]
+[2017-06-19 23:49:53] <ERROR> SendStripScreen = [请A001到01窗口] status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|431]
+[2017-06-19 23:49:54] <ERROR> SendStripScreen = [请B002到02窗口] status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|431]
+[2017-06-19 23:49:55] <ERROR> SendStripScreen = [请C003到03窗口] status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|431]
+[2017-06-19 23:49:56] <ERROR> SendStripScreen = [请D004到04窗口] status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|431]
+[2017-06-19 23:49:57] <ERROR> SendStripScreen = [请E005到05窗口] status = [-1]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\immtw45\immtw45.cpp|431]
+[2017-06-20 00:27:58] <DEBUG> IMMTW45::IMMTW45(void)
+[2017-06-20 00:27:58] <INFO> LoadLibrarys dlltpzp.dll EV_SocketUdpDll.dll Success!
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|30]
+[2017-06-20 00:27:58] <DEBUG> SHOWFORMAT=[请X号到X窗口办理业务]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|41]
+[2017-06-20 00:27:58] <DEBUG> InitMapWinAdr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|45]
+[2017-06-20 00:27:58] <DEBUG> InitMapIpAddr
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|47]
+[2017-06-20 00:27:59] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-20 00:28:00] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-20 00:28:02] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-20 00:28:03] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|121]
+[2017-06-20 00:28:04] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-20 00:28:05] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]
+[2017-06-20 00:28:06] <ERROR> NetSendPicOnceNew9G sucess ! status = [-1]
+[E:\工作_兼容利旧\分地区\workspace-latest\queue\screen\IMMTW45\IMMTW45.cpp|185]

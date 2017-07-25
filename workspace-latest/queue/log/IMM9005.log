@@ -1,0 +1,26 @@
+[2017-07-11 17:44:27] <DEBUG> IMM9005::IMM9005(void)
+[2017-07-11 17:44:27] <INFO> LoadLibrarys LcLedComm.dll Sucess!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|16]
+[2017-07-11 17:44:27] <DEBUG> SHOWFORMAT=[请X到X窗口]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|309]
+[2017-07-11 17:44:27] <INFO> 加载综合屏成功 Sucess!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|23]
+[2017-07-11 17:44:27] <DEBUG> 打开串口设备:COM=[COM1], 波特率 = [9600]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|135]
+[2017-07-11 17:44:27] <DEBUG> IMM9005::InitStripScreen( )
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|205]
+[2017-07-11 17:44:27] <DEBUG> IMM9005::InitIntegScreen( )
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|216]
+[2017-07-12 09:10:39] <DEBUG> IMM9005::IMM9005(void)
+[2017-07-12 09:10:39] <INFO> LoadLibrarys LcLedComm.dll Sucess!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|16]
+[2017-07-12 09:10:39] <DEBUG> SHOWFORMAT=[请X到X窗口]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|309]
+[2017-07-12 09:10:39] <INFO> 加载综合屏成功 Sucess!
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|23]
+[2017-07-12 09:10:39] <DEBUG> 打开串口设备:COM=[COM1], 波特率 = [9600]
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|135]
+[2017-07-12 09:10:39] <DEBUG> IMM9005::InitStripScreen( )
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|205]
+[2017-07-12 09:10:39] <DEBUG> IMM9005::InitIntegScreen( )
+[e:\工作_兼容利旧\分地区\workspace-latest\queue\screen\imm9005\imm9005.cpp|216]

@@ -1,0 +1,74 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: framework - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\wex\AppData\Local\Temp\RSP6F93.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "FRAMEWORK_EXPORTS" /Fp"Debug/framework.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\Adapter.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\ConfigReader.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\CracksAlgorithm.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\CyclBuffer.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\Log.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\Queue.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\ScreenAdapter.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\ScreenDispatch.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\SerialPort.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\SocketServer.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\SplitStrings.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\Thread.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\VoicesAdapter.cpp"
+"E:\工作_兼容利旧\分地区\workspace-latest\framework\src\VoicesDispatch.cpp"
+]
+Creating command line "cl.exe @C:\Users\wex\AppData\Local\Temp\RSP6F93.tmp" 
+Creating temporary file "C:\Users\wex\AppData\Local\Temp\RSP6FA4.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:yes /pdb:"Debug/framework.pdb" /debug /machine:I386 /out:"../queue/framework.dll" /implib:"Debug/framework.lib" /pdbtype:sept 
+".\Debug\Adapter.obj"
+".\Debug\ConfigReader.obj"
+".\Debug\CracksAlgorithm.obj"
+".\Debug\CyclBuffer.obj"
+".\Debug\Log.obj"
+".\Debug\Queue.obj"
+".\Debug\ScreenAdapter.obj"
+".\Debug\ScreenDispatch.obj"
+".\Debug\SerialPort.obj"
+".\Debug\SocketServer.obj"
+".\Debug\SplitStrings.obj"
+".\Debug\Thread.obj"
+".\Debug\VoicesAdapter.obj"
+".\Debug\VoicesDispatch.obj"
+]
+Creating command line "link.exe @C:\Users\wex\AppData\Local\Temp\RSP6FA4.tmp"
+<h3>Output Window</h3>
+Compiling...
+Adapter.cpp
+ConfigReader.cpp
+e:\工作_兼容利旧\分地区\workspace-latest\framework\src\configreader.h(26) : warning C4251: 'paramMap' : class 'std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >' needs to have dll-interface to be used by clients of class 'ConfigReader'
+e:\工作_兼容利旧\分地区\workspace-latest\framework\src\configreader.h(29) : warning C4251: 'm_ConReadClass' : class 'std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class ConfigReader *,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<class ConfigReader *> >' needs to have dll-interface to be used by clients of class 'ConfigReader'
+CracksAlgorithm.cpp
+CyclBuffer.cpp
+Log.cpp
+Queue.cpp
+ScreenAdapter.cpp
+ScreenDispatch.cpp
+SerialPort.cpp
+SocketServer.cpp
+SplitStrings.cpp
+Thread.cpp
+VoicesAdapter.cpp
+VoicesDispatch.cpp
+Linking...
+   Creating library Debug/framework.lib and object Debug/framework.exp
+
+
+
+<h3>Results</h3>
+framework.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

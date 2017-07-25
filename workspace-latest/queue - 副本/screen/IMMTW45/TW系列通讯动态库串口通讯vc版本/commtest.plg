@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: commtest - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/commtest.res" /d "_DEBUG" /d "_AFXDLL" "E:\sun_work\delphi\nd-st1\SocketDll\TW系列动态库和例子\TW系列通讯动态库串口通讯vc版本\commtest.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/commtest.pdb" /debug /machine:I386 /out:"Debug/commtest.exe" /pdbtype:sept  ".\Debug\commtest.obj" ".\Debug\commtestDlg.obj" ".\Debug\StdAfx.obj" ".\Debug\commtest.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+commtest.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

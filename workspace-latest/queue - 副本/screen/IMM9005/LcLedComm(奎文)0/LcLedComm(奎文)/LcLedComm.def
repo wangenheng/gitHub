@@ -1,0 +1,13 @@
+; LcLedComm.def : Declares the module parameters for the DLL.
+
+LIBRARY      "LcLedComm"
+DESCRIPTION  'LcLedComm Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+  
+    LedOpenComm	    
+	LedSendData
+	LedSetSolidData	   
+    LedCloseComm
+	LedSetScreen
